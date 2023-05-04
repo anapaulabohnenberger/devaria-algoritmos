@@ -1,0 +1,1 @@
+# Repositório referente aos algoritmos estudados no módulo de Lógica de Programação.
